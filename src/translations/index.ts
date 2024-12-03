@@ -110,9 +110,9 @@ const translations = {
       title: 'Our Specialists',
       specialty: 'Obstetrics & Gynecology',
       specialists: {
-        yehia: 'Dr. Yehia El Shazly',
-        sherif: 'Dr. Sherif Fahmy',
-        helmy: 'Dr. Ahmed Helmy'
+        yehia: 'Dr. Mohamed Yehia',
+        sherif: 'Dr. Sherif Yehia',
+        helmy: 'Dr. Amr Helmy'
       }
     },
     patientInfo: {
@@ -291,9 +291,9 @@ const translations = {
       title: 'المتخصصون لدينا',
       specialty: 'النساء والتوليد',
       specialists: {
-        yehia: 'د. يحيى الشاذلي',
-        sherif: 'د. شريف فهمي',
-        helmy: 'د. أحمد حلمي'
+        yehia: 'د. محمد يحيى',
+        sherif: 'د. شريف يحيى',
+        helmy: 'د. عمرو حلمي'
       }
     },
     patientInfo: {
