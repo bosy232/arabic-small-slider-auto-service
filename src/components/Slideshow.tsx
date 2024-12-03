@@ -4,18 +4,18 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const slides = [
   {
     image: "https://lh3.googleusercontent.com/p/AF1QipMeUpZnC-EK8Zc8lWPYG8kb7QyOJLuGIcM6JKew=s1360-w1360-h1020",
-    // title: "Advanced Medical Care",
-    // description: "State-of-the-art facilities and expert healthcare professionals"
+    title: "Advanced Medical Care",
+    description: "State-of-the-art facilities and expert healthcare professionals"
   },
   {
     image: "https://lh3.googleusercontent.com/p/AF1QipP8Wrz731hVn25mC0uTZIOvtYHrE9_q9wY5xJD9=s1360-w1360-h1020",
-    // title: "Compassionate Staff",
-    // description: "Dedicated team committed to your well-being"
+    title: "Compassionate Staff",
+    description: "Dedicated team committed to your well-being"
   },
   {
     image: "https://lh3.googleusercontent.com/p/AF1QipOEuac9sFH-UwJAxSAFEgboahdZd4DSCWy04NX5=s1360-w1360-h1020",
-    // title: "Modern Technology",
-    // description: "Latest medical technology for precise diagnostics and treatment"
+    title: "Modern Technology",
+    description: "Latest medical technology for precise diagnostics and treatment"
   }
 ];
 
